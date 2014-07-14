@@ -14,6 +14,7 @@ Count | Subrecord | Name | Type | Info
  | MICO | Small icon filename | cstring |
  | | [Model Data](Subrecords/Model.md) | collection |
 + | DATA | Data | struct |
++ | ESCE | Counter Effects | formID |
 
 ### DATA
 
